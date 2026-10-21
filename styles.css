@@ -40,12 +40,12 @@ main {
 
  }
 .feature {
-     background-image: url("assets/landscape.svg"); 
-     background-size: cover;
-      background-position: center; 
-      min-height: 260px; 
-      padding: 24px; 
-      color: white;
+     background-image: url("assets/landscape.svg");
+     background-size: contain;
+     background-position: center; 
+     min-height: 260px; 
+     padding: 24px; 
+     color: white;
      }
 .feature-content { 
     background-color: rgba(8, 29, 49, .72); 
