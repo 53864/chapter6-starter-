@@ -53,12 +53,15 @@ main {
      flex-wrap: wrap; 
      gap: 18px; 
      margin-top: 22px; 
-    }
+     
+}
 .card { 
     flex: 1 1 220px; 
     padding: 16px; 
     background: #fff;
-     border: 1px solid #b2cad7; 
+     border: 1px solid #9a0a5e; 
+     border-radius: 14px;
+    
     }
 footer { 
     padding: 18px 24px; 
